@@ -34,7 +34,15 @@ Explore our premium VFX packs and bundles on the Unity Asset Store.
 
 ## License
 
-License information will be available before the first release.
+These assets are provided under the
+[Vefects Free Asset License](LICENSE.txt).
+
+Free for personal and commercial projects.
+Modification is allowed. Attribution to Vefects is not required.
+
+Redistribution or resale as standalone assets, asset packs,
+or reusable template resources is not permitted.
+See the full license for conditions and exceptions.
 
 ---
 
